@@ -1,1 +1,2 @@
+ghcr.io/lkzc19/drinkice-site:latest
 ghcr.io/lkzc19/demo.shortlink-spring:latest
