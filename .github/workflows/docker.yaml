@@ -155,3 +155,10 @@ jobs:
             echo "=============================================================================="     
             
         done < images.txt
+  notify:
+    needs: bulid
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build Notify
+        run: |
+          curl https://api.day.app/${{ secrets.BARK_PUSH_KEY }}/docker sync/镜像同步成功
