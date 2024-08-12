@@ -156,7 +156,7 @@ jobs:
             
         done < images.txt
   notify:
-    needs: bulid
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Build Notify
