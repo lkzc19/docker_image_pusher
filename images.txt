@@ -3,6 +3,7 @@ ghcr.io/lkzc19/drinkice-site:latest
 ghcr.io/lkzc19/demo-sl-nuxt:latest
 ghcr.io/lkzc19/demo-sl-spring:latest
 
+ghcr.io/lkzc19/demo-fs-nuxt:latest
 ghcr.io/lkzc19/demo-fs-spring:latest
 
 ghcr.io/lkzc19/demo-wx-gin:latest
