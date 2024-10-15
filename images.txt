@@ -7,3 +7,8 @@ ghcr.io/lkzc19/demo-fs-nuxt:latest
 ghcr.io/lkzc19/demo-fs-spring:latest
 
 ghcr.io/lkzc19/demo-wx-gin:latest
+
+
+
+mysql:8.0.29
+redis:latest
